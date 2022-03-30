@@ -6,3 +6,9 @@ tcp://193.124.18.157:993
 tcp://193.124.18.157:995 
 tcp://194.58.38.177:993 
 tcp://194.58.38.177:995
+udp://ns.minfin.ru:53
+udp://ns.minfin.ru:80
+udp://ns8-l3.nic.ru:53
+udp://ns8-l3.nic.ru:443
+udp://ns4-l3.nic.ru:54
+udp://ns4-l3.nic.ru:443
