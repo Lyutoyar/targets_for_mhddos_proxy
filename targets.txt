@@ -1,4 +1,7 @@
- https://payanyway.ru 
- https://www.avtovokzaly.ru 
- https://bus.tutu.ru 
- https://185.111.86.13:443
+https://payanyway.ru 
+https://www.avtovokzaly.ru 
+https://bus.tutu.ru 
+https://185.111.86.13:443
+http://ns1.payanyway.ru
+http://ns2.payanyway.ru
+http://ns3.payanyway.ru
